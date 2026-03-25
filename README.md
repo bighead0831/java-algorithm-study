@@ -7,3 +7,4 @@
 | 2026-03-22 | [1158](https://www.acmicpc.net/problem/1158) | 요세푸스 문제 | 실버 4 | `Queue` |
 | 2026-03-25 | [15820](https://www.acmicpc.net/problem/15829) | Hashing | 브론즈 2 | `Hashing`,`Integer overflow(Int, Long)`, `Modular(%) Arithmethic` |
 | 2026-03-25 | [1269](https://www.acmicpc.net/problem/1269) | 대칭 차집합 | 실버 4 | `DataStructure`, `HashSet`|
+| 2026-03-25 | [11478](https://www.acmicpc.net/problem/11478) | 서로 다른 부분 문자열의 개수 | 실버 3 | `DataStructure`, `HashSet`, `substring` |
