@@ -12,3 +12,4 @@
 | 2026-03-25 | [1302](https://www.acmicpc.net/problem/1302) | 베스트셀러 | 실버 4 | `DataStructure`, `TreeMap` |
 | 2026-03-26 | [10809](https://www.acmicpc.net/problem/10809) | 알파벳 찾기 | 실버 4 | `DataStructure`, `TreeMap` |
 | 2026-03-27 | [11022](https://www.acmicpc.net/problem/11022) | A+B-8 | 브론즈 5 | `parseInt`, `Print`, `StringTokenizer` |
+| 2026-03-28 | [10810](https://www.acmicpc.net/problem/10810) | 공 넣기 | 브론즈 3 | `HashMap` or `Array` |
